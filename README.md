@@ -5,7 +5,7 @@ Meu nome é ###-Anny 🪷
 
 - Estou estudando na [Alura]_(https://www.alura.com.br).
 
--🎀 Tenho 16 anos;
+-🎀 Tenho 17 anos;
 
 -🛍️ Utilizo meu perfil para compartilhar meus projetos desenvolvidos;
 
