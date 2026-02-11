@@ -1,15 +1,16 @@
-### Bem-Vindo ao meu perfil 💙
-Meu nome é ###-Anny 🪷
+-💞 Bem-Vindo ao meu perfil 💞
+
+-Meu nome é Anny🦢
 
 -📓 Sou Aluna de Pensamento Computacional;
 
-- Estou estudando na [Alura]_(https://www.alura.com.br).
+-✏️ Estou estudando na [Alura]_(https://www.alura.com.br).
 
 -🎀 Tenho 17 anos;
 
 -🛍️ Utilizo meu perfil para compartilhar meus projetos desenvolvidos;
 
-### para entra em contato comigo:
+-☎️ para entra em contato comigo:
 
 anny.carvalho.duarte@escola.pr.gov.br
 
